@@ -1,6 +1,6 @@
 # React JS Portfolio Website
 
-[🔗Live Demo🔗]([https://prismatic-truffle-d14f3e.netlify.app/])
+[🔗Live Demo🔗](https://prismatic-truffle-d14f3e.netlify.app/)
 
 ![Protfolio Website](src/assets/Portfolio%20preview.png)
 
