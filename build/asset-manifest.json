@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86de20df.css",
+    "main.js": "/static/js/main.c3fd9fa1.js",
+    "static/media/Me.png": "/static/media/Me.f38de9d640c2e479aeb9.png",
+    "static/media/p1.png": "/static/media/p1.5889ae0691881244d015.png",
+    "static/media/p5.png": "/static/media/p5.f14667ba46b1899345dd.png",
+    "static/media/p3.png": "/static/media/p3.4744037eac8ff8cce08b.png",
+    "static/media/ps.jpg": "/static/media/ps.830e5a944c134733de47.jpg",
+    "static/media/p6.png": "/static/media/p6.e3f88920d58730bc3b51.png",
+    "static/media/p4.png": "/static/media/p4.850dde66d47858de0198.png",
+    "static/media/P2.png": "/static/media/P2.5448ff2e490b84a5c153.png",
+    "static/media/resume_Anshul_Mishra.pdf": "/static/media/resume_Anshul_Mishra.eb62da37859efc996b93.pdf",
+    "index.html": "/index.html",
+    "main.86de20df.css.map": "/static/css/main.86de20df.css.map",
+    "main.c3fd9fa1.js.map": "/static/js/main.c3fd9fa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86de20df.css",
+    "static/js/main.c3fd9fa1.js"
+  ]
+}
